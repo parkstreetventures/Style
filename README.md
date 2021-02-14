@@ -1,3 +1,6 @@
+> __Disclaimer:__ This repository serves for inspirational purposes only.
+
+
 # Style2Vec
 
 Implementation of fashion products vector representation based on [Style2Vec: Representation Learning for Fashion Items from Style Sets](https://arxiv.org/abs/1708.04014).
